@@ -6,7 +6,8 @@
            "type": "string",
            "metadata": {
                 "description": "storage account name as an input parameter"
-            }
+            },
+            "defaultValue": "stlol"
         }
     },
     "variables": {},
